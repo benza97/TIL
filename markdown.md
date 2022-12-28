@@ -1,3 +1,79 @@
+ # 마크다운 문법 정리
+ 
+ ## 제목 2
+ ### 제목 3
+
+ 
+ **글씨체 강조**
+ 
+ *글씨체 강조*
+
+ > 인용문
+
+ 1. 분류
+ 2. 분류
+ 3. 분류
+
+ - 분류
+ - 분류
+ - 분류
+
+ `python` 
+
+ - 밑줄
+ ---
+ - 링크  [구글](https://www.google.com/)
+ 
+![보노보노](bn14.jpg)
+- 이미지
+
+
+ ```
+  "firstName":"jun young"
+  "lastName": "kim"
+  "age": 26
+```
+
+``` python
+print(hello world)
+```
+
+
+# CLI 문법
+
+`ls` : 목록 list
+
+`mkdir` : 디렉토리 생성 make directory
+
+`cd`: 디렉토리 이동 `change directory`
+
+`.` : 현재 디렉토리 ..: 상위 디렉토리
+
+`touch` : 새로운 파일을 생성
+
+`rm` : 삭제 `remove` 폴더 삭제 시 `rm -r`
+
+## *ctrl+s (저장) 습관적으로 사용하기*
+
+---
+
+# git bash 개념이해
+
+ working tree (1통)
+ -> `git add` 입력
+
+
+ staging area  (2통)
+ -> `git commit -m` 입력 (3통)
+ 
+
+ working tree, staging area (1,2통) -> `git status`
+ commit -m (3통) -> `git log`
+
+ ---
+
+
+
 # 원격저장소 정리
 ##  저장소 처음 만들때 
 - `git init`

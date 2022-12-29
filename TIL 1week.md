@@ -24,7 +24,7 @@
  ---
  - 링크  [구글](https://www.google.com/)
  
-![보노보노](bn14.jpg)
+![보노보노](/image/bn14.jpg)
 - 이미지
 
 
@@ -41,19 +41,21 @@ print(hello world)
 
 # CLI 문법
 
-`ls` : 목록 list
+```
+ls : 목록 list
 
-`mkdir` : 디렉토리 생성 make directory
+mkdir : 디렉토리 생성 make directory
 
-`cd`: 디렉토리 이동 `change directory`
+cd: 디렉토리 이동 `change directory`
 
-`.` : 현재 디렉토리 ..: 상위 디렉토리
+. : 현재 디렉토리 ..: 상위 디렉토리
 
-`touch` : 새로운 파일을 생성
+touch : 새로운 파일을 생성
 
-`rm` : 삭제 `remove` 폴더 삭제 시 `rm -r`
+rm : 삭제 remove 폴더 삭제 시 rm -r
 
-## *ctrl+s (저장) 습관적으로 사용하기*
+*ctrl+s (저장) 습관적으로 사용하기*
+```
 
 ---
 
@@ -115,7 +117,7 @@ print(hello world)
 # 협업과정 그림 자료
 
 
-![협업과정](%ED%98%91%EC%97%85%EA%B3%BC%EC%A0%95.png)
+![협업과정](/image/%ED%98%91%EC%97%85%EA%B3%BC%EC%A0%95.png)
 
 
 ---

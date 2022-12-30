@@ -1,6 +1,4 @@
-# TIL 1week
+[1days](TIL.md/#cli-문법)
 
-### day 1
 
-[마크다운 문법](#til-1week/#마크다운-문법-정리)
-
+[2days](TIL.md/#원격저장소-정리)

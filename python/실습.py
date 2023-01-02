@@ -65,12 +65,15 @@ w = int(input('숫자를 입력해 주세요'))
 print(q*w)
 
 e = int(input('첫 번째 숫자를 입력해주세요 >'))
+print(e)
 r = int(input('두 번째 숫자를 입력해주세요 >'))
+print(e+r)
 t = int(input('세 번째 숫자를 입력해주세요 >'))
+print(e+r+t)
 y = int(input('네 번째 숫자를 입력해주세요 >'))
+print(e+r+t+y)
 u = int(input('다섯 번째 숫자를 입력해주세요 >'))
-
-print(e+r+t+y+u) # 잘 모르겠음
+print(e+r+t+y+u)
 
 
 

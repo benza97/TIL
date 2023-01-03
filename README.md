@@ -12,3 +12,5 @@
 
 - [Gitbranch](TIL.md/#git-branch)
 
+- [python](/python)
+
